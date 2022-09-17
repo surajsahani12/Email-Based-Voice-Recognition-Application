@@ -52,8 +52,8 @@ class DashBoard:
 
 
         self.email_list = {
-            'suraj': 'surajsa@sjcem.edu.in',
-            'sushil': 'sushily@sjcem.edu.in'
+            'name1': 'anyofyouremail1',
+            'name2': 'anyofyouremail2'
         }
 
         value = input()

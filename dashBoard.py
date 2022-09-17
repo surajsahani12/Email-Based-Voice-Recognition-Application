@@ -63,8 +63,8 @@ class DashBoard:
         label.place(x=650, y=7, width=500)
         
         self.email_list = {
-            'suraj': 'surajsa@sjcem.edu.in',
-            'sushil': 'sushily@sjcem.edu.in'
+            'name1': 'anyofyouremail1',
+            'name2': 'anyofyouremail2'
         }
         talk("Now we are on the dashboard page")
         talk("Do you want to compose email or do you want check emails?")
